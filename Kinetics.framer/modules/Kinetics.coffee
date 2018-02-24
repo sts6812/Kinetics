@@ -5,7 +5,7 @@ Utils.insertCSS("@import url(https://fonts.googleapis.com/css?family=Roboto+Mono
 
 $ = 
 	KINETICS: {}
-	DEVICE: Framer.Device.phone
+	DEVICE: Framer.Device.screen
 	BUTTONS: {}
 	TEXT: {}
 	SLIDERS: {knob:{knobSize: 28, backgroundColor: "#E0E0E0"}, fill:{backgroundColor: "#E0E0E0"}}
